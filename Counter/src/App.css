@@ -1,0 +1,17 @@
+#buttons button{
+  width: 50px;
+  height: 30px;
+  background-color: black;
+  border-radius:10px;
+  color: white;
+  font-size: 20px ;
+  margin-left: 20px ;
+}
+#counter{
+  align-items: center;
+  text-align: center;
+  width: 500px ;
+  border-radius:20px;
+  padding: 20px;
+  background-color: aquamarine;
+}
